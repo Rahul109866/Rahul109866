@@ -8,7 +8,7 @@ Started my dev journey on Python and web based automation projects looking to br
 
 * 🌍  I'm based in Chennai,Tamil Nadu, India
 * ✉️  You can contact me at [rahulrajendran10098@gmail.com](mailto:rahulrajendran10098@gmail.com)
-* 🧠  I'm learning Django
+* 🧠  I'm learning Java
 
 ### Skills
 
