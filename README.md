@@ -1,14 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahul Rajendran
 =======================================================================================================================================
 
-Aspiring Software Developer
+Python/ Data Professional
 ---------------------------
 
 Started my dev journey on Python and web based automation projects looking to branch out to full fledged software development either in Python or required language.
 
 * 🌍  I'm based in Chennai,Tamil Nadu, India
 * ✉️  You can contact me at [rahulrajendran10098@gmail.com](mailto:rahulrajendran10098@gmail.com)
-* 🧠  I'm learning Java
 
 ### Skills
 
